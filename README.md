@@ -1,5 +1,5 @@
 
-# MediTech- An Improvised Healthcare platform 
+# DIGITAL HEALTH CARE 
 
 >The Digital healthcare companion application will be introduced to assist patients who are far away from the vicinity of the General hospital and support their health services at ease.
 It is designed to perform certain tasks such as:
